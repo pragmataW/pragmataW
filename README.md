@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pragmataW
+- 👀 I’m interested in Artificial Intelligence and Brain-Computer Interface
+- 🌱 I’m currently learning Python and C
+- 📫 You can reach me at ciftciyusuf700@gmail.com
