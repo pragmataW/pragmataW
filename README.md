@@ -6,7 +6,7 @@
 [![yciftci's 42 stats](https://badge42.vercel.app/api/v2/cla5ig5os00060gmk26i694gu/stats?cursusId=21&coalitionId=231)](https://github.com/JaeSeoKim/badge42)
 
 
-[![yciftci's 42 stats]([https://badge42.vercel.app/api/v2/cla5ig5os00060gmk26i694gu/stats?cursusId=21&coalitionId=231)](https://github.com/JaeSeoKim/badge42](https://github-readme-stats.vercel.app/api?username={pragmataW}))
+[![github-stats]([https://badge42.vercel.app/api/v2/cla5ig5os00060gmk26i694gu/stats?cursusId=21&coalitionId=231)](https://github.com/JaeSeoKim/badge42](https://github-readme-stats.vercel.app/api?username={pragmataW}))
 
 
 
