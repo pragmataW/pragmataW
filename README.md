@@ -11,5 +11,4 @@
 <a href="https://github.com/pragmataW"><img width="494" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pragmataW&theme=chartreuse-dark&layout=compact&bg_color=0e1116"/>
   </p>
  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 [![](https://visitcount.itsvg.in/api?id=pragmataW&icon=0&color=12)](https://visitcount.itsvg.in)
