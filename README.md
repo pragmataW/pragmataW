@@ -17,4 +17,4 @@
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 [![](https://visitcount.itsvg.in/api?id=pragmataW&icon=0&color=12)](https://visitcount.itsvg.in)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
