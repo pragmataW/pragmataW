@@ -15,20 +15,4 @@
 <a href="https://github.com/samiguntepe"><img width="494" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&layout=compact&bg_color=0e1116"/>
 </p>
 
-<table style="width:100%">
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-</table>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
