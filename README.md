@@ -1,4 +1,4 @@
-<a href="https://github.com/pragmataW"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+pragmataW's+Github;Ecole+42+Student" alt="Typing SVG" /></a>
+<a href="https://github.com/pragmataW"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+pragmataW's+Github" alt="Typing SVG" /></a>
 
 ![image](https://www.codewars.com/users/pragmataW/badges/large)
 <br>
